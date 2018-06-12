@@ -82,12 +82,12 @@ a{
 }
 /******************导航******************/
 .nav{
-	height:39px ;
+	height:50px ;
 	margin:10px 0;
 }
 .nav>ul{
 	float: right;
-	width: 700px;
+	width: 701px;
 	margin-left: 20px;
 	height: 39px;
 }
